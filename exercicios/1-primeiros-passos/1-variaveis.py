@@ -17,3 +17,4 @@ Inteiro
 Fracao
 Verdade
 Mentira
+print(Empresa,Inteiro,Fracao,Verdade,Mentira)
